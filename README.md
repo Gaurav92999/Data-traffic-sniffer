@@ -13,5 +13,6 @@ The above mentioned protocols majorily cover about 90% of the data traffic
 Requirements:
 >Python 3
 >Privileged/Administrative Rights
+>Linux OS
 
 
